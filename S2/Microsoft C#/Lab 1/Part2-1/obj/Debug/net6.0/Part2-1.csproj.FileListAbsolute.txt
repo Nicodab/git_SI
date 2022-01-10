@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\bin\Debug\net6.0\Part2-1.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\bin\Debug\net6.0\Part2-1.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\bin\Debug\net6.0\Part2-1.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\bin\Debug\net6.0\Part2-1.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\bin\Debug\net6.0\ref\Part2-1.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\bin\Debug\net6.0\Part2-1.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\ref\Part2-1.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Part2-1\obj\Debug\net6.0\Part2-1.genruntimeconfig.cache

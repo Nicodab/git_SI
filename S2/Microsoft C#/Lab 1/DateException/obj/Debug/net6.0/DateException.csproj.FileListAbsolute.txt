@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\bin\Debug\net6.0\DateException.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\bin\Debug\net6.0\DateException.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\bin\Debug\net6.0\DateException.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\bin\Debug\net6.0\DateException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\bin\Debug\net6.0\ref\DateException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\bin\Debug\net6.0\DateException.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\ref\DateException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\DateException\obj\Debug\net6.0\DateException.genruntimeconfig.cache

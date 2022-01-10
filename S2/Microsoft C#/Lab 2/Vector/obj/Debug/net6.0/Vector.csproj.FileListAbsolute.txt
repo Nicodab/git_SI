@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\bin\Debug\net6.0\Vector.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\bin\Debug\net6.0\Vector.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\bin\Debug\net6.0\Vector.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\bin\Debug\net6.0\Vector.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\bin\Debug\net6.0\ref\Vector.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\bin\Debug\net6.0\Vector.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\ref\Vector.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Vector\obj\Debug\net6.0\Vector.genruntimeconfig.cache

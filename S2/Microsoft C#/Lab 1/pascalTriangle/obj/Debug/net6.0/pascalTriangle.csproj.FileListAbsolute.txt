@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\bin\Debug\net6.0\pascalTriangle.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\bin\Debug\net6.0\pascalTriangle.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\bin\Debug\net6.0\pascalTriangle.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\bin\Debug\net6.0\pascalTriangle.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\bin\Debug\net6.0\ref\pascalTriangle.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\bin\Debug\net6.0\pascalTriangle.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\ref\pascalTriangle.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\pascalTriangle\obj\Debug\net6.0\pascalTriangle.genruntimeconfig.cache

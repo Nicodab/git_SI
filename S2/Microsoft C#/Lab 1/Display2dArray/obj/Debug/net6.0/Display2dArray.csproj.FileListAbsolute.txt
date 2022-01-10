@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\bin\Debug\net6.0\Display2dArray.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\bin\Debug\net6.0\Display2dArray.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\bin\Debug\net6.0\Display2dArray.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\bin\Debug\net6.0\Display2dArray.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\bin\Debug\net6.0\ref\Display2dArray.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\bin\Debug\net6.0\Display2dArray.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\ref\Display2dArray.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\Display2dArray\obj\Debug\net6.0\Display2dArray.genruntimeconfig.cache

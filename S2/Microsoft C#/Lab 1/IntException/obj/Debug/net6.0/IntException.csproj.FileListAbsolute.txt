@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\bin\Debug\net6.0\IntException.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\bin\Debug\net6.0\IntException.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\bin\Debug\net6.0\IntException.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\bin\Debug\net6.0\IntException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\bin\Debug\net6.0\ref\IntException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\bin\Debug\net6.0\IntException.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\ref\IntException.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 1\IntException\obj\Debug\net6.0\IntException.genruntimeconfig.cache
