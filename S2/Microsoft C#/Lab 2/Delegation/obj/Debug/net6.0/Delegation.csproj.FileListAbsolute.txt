@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\bin\Debug\net6.0\Delegation.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\bin\Debug\net6.0\Delegation.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\bin\Debug\net6.0\Delegation.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\bin\Debug\net6.0\Delegation.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\bin\Debug\net6.0\ref\Delegation.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\bin\Debug\net6.0\Delegation.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\ref\Delegation.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\Delegation\obj\Debug\net6.0\Delegation.genruntimeconfig.cache

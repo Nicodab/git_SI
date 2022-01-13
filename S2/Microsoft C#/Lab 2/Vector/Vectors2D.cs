@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
-    public  class Vectors2D 
+    public  class Vector2D 
     {
 
         protected int x;
@@ -14,7 +14,7 @@ namespace Lab2
         protected static int nb_vectors; 
 
         // <Default
-        public Vectors2D()
+        public Vector2D()
         {
             nb_vectors++;
             x = 0;
@@ -22,14 +22,14 @@ namespace Lab2
         }
 
         // Parametized
-        public Vectors2D(int x, int y)
+        public Vector2D(int x, int y)
         {
             nb_vectors++;
             this.x = x;
             this.y = y;
         }
         // Copy 
-        public Vectors2D(Vectors2D v)
+        public Vector2D(Vector2D v)
         {
             nb_vectors++;
             v.x = x;
@@ -67,7 +67,7 @@ namespace Lab2
             return str;
         }
 
-        public Boolean equal(Vectors2D v)
+        public Boolean equal(Vector2D v)
         {
             return x == v.x && y == v.y;
         }

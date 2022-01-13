@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b96065a4-095c-4698-b919-19d648a3c251": {
+      "ProjectGuid": "b96065a4-095c-4698-b919-19d648a3c251",
+      "DisplayName": "Person",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
