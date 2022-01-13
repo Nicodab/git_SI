@@ -8,6 +8,7 @@ namespace Delegation
 {
     class Registrar
     {
-        public delegate void report(Student student);
+        public delegate void report(double mo);
+
     }
 }
