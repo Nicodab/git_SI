@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.AssemblyInfo.cs
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\bin\Debug\net6.0\StockManagment.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\bin\Debug\net6.0\StockManagment.deps.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\bin\Debug\net6.0\StockManagment.runtimeconfig.json
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\bin\Debug\net6.0\StockManagment.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\bin\Debug\net6.0\ref\StockManagment.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\bin\Debug\net6.0\StockManagment.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\ref\StockManagment.dll
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Lab 2\StockManagment\obj\Debug\net6.0\StockManagment.genruntimeconfig.cache
