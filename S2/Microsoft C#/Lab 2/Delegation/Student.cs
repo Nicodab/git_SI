@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Delegation
 {
-    public delegate void AvgChanged(double average);
     class Student
     {
         //public int Id { get; set; }
@@ -23,7 +22,7 @@ namespace Delegation
             this.courses = 0;
         }
         // Parametized
-        public Student (string fullname, double average, int courses)
+        public Student(string fullname, double average, int courses)
         {
             this.fullname = fullname;
             this.average = average;
