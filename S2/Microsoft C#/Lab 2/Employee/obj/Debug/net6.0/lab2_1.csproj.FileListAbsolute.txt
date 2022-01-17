@@ -1,0 +1,15 @@
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.csproj.AssemblyReference.cache
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.AssemblyInfoInputs.cache
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.AssemblyInfo.cs
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\bin\Debug\net6.0\lab2_1.exe
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\bin\Debug\net6.0\lab2_1.deps.json
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\bin\Debug\net6.0\lab2_1.runtimeconfig.json
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\bin\Debug\net6.0\lab2_1.dll
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\bin\Debug\net6.0\ref\lab2_1.dll
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\bin\Debug\net6.0\lab2_1.pdb
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.dll
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\ref\lab2_1.dll
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.pdb
+C:\Users\chamy\OneDrive\Bureau\C#\labs\lab2_1\obj\Debug\net6.0\lab2_1.genruntimeconfig.cache

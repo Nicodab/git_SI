@@ -4,12 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Employee
+namespace lab2_1
 {
-    class Boss
+     class Boss : Employee
     {
-        private int turnover;
+        private double turnover;
         private double percentage;
-        public int getSalary() { return 0; }
+        private double salary;
+
+       public Boss(string matricule, string birth, string firstname, string lastname, double turn, double percent) : base(matricule, birth, firstname, lastname)
+        {
+            turnover = turn;
+            percentage = percent;
+
+        }
+
+        public override double getSalary()
+        {
+            salary = turnover*percentage/100; 
+            return salary;
+        }
+        
+        public override void ToString()
+        {
+            Console.WriteLine(FirstName + " " + Lastname + "has a salary of : " + salary);
+    
+        }
     }
 }

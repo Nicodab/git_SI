@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicol\\.nuget\\packages\\": {},
+    "C:\\Users\\chamy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\Documents\\ING4\\git_SI\\S2\\Microsoft C#\\Lab 2\\Employee\\Employee.csproj",
-      "projectName": "Employee",
-      "projectPath": "C:\\Users\\nicol\\Documents\\ING4\\git_SI\\S2\\Microsoft C#\\Lab 2\\Employee\\Employee.csproj",
-      "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\Documents\\ING4\\git_SI\\S2\\Microsoft C#\\Lab 2\\Employee\\obj\\",
+      "projectUniqueName": "C:\\Users\\chamy\\OneDrive\\Bureau\\C#\\labs\\lab2_1\\lab2_1.csproj",
+      "projectName": "lab2_1",
+      "projectPath": "C:\\Users\\chamy\\OneDrive\\Bureau\\C#\\labs\\lab2_1\\lab2_1.csproj",
+      "packagesPath": "C:\\Users\\chamy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chamy\\OneDrive\\Bureau\\C#\\labs\\lab2_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
