@@ -1,0 +1,11 @@
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.Form1.resources
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\nicol\Documents\ING4\git_SI\S2\Microsoft C#\Exercise1\obj\Debug\Exercise1.pdb
