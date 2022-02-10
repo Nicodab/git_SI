@@ -19,17 +19,17 @@ namespace Exercise1
 
         public static void DH_Convert(double amount, char money)
         {
-            // Dirham to euros
-            if (money == 'd')
-            {
-                amount *= 0.095;
-            }
+            //// Dirham to euros
+            //if (money == 'd')
+            //{
+            //    amount *= 0.095;
+            //}
 
-            // Euros to dirahm
-            else if (money == 'e')
-            {
-                amount *= 10.51;
-            }
+            //// Euros to dirahm
+            //else if (money == 'e')
+            //{
+            //    amount *= 10.51;
+            //}
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -44,15 +44,35 @@ namespace Exercise1
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            textBox1.Text = "RRR";
-            //DH_Convert(10, 'd');
+            //if (string.IsNullOrWhiteSpace(textBox2.Text))
+            //{
+             textBox1.Text = "Amount in Dirhams";
+            //}
+            ////DH_Convert(10, 'd');
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            textBox1.Text = "Enter ammount in Dirhams";
-            textBox2.Text = "Hello";
-           // DH_Convert(10, 'd');
+        //    if (string.IsNullOrWhiteSpace(textBox1.Text))
+        //    {
+            textBox2.Text = "Amount in Euros";
+        //    }
+        //    //textBox2.Text = "Hello";
+        //    // DH_Convert(10, 'd');
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+            if (radioButton1.Checked)
+            {
+                textBox1.Text = "rrrrrr";
+            }
+            else if(radioButton2.Checked)
+            {
+                textBox2.Text = "ddddd";
+            }
+            MessageBox.Show("hello");
         }
     }
 }
